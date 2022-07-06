@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+.brand-text{
+    font-family: "Bebas";
+    font-size:1.5rem;
+    font-weight:bold;
+    font-style: normal;
+    
+}
+a{
+    font-size:1.2rem;
+}
+
+.navbar-dark{
+    background-color:#512DA8;
+}
+
+.row-header{
+    margin:0px auto;
+    padding:0px auto;
+}
+.row-content{
+    margin:0px auto;
+    padding:50px 0px 50px 0px;
+    border-bottom: 1px #ddd ridge;
+    min-height:400px;
+}
+.footer{
+    margin:0px auto;
+    padding:20px 0px 20px 0px;
+    background-color:#D1c4e9;
+}
+.address{
+    color:#0f0f0f;
+    font-size:80%;
+    margin:0px;
+}
+
+.jumbotron{
+    background-color:#9575cd;
+    border:none;
+    border-radius:0;
+    color:floralwhite;
+    padding: 70px 30px 70px 30px;
+    margin: 0px auto;
+}
+
+.carousel {
+    background:#512DA8;
+}
+
+.carousel-item {
+  height: 300px;
+}
+
+.carousel-item img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    min-height: 300px;
+}
+#carouselButton {
+    right:0px;
+    position: absolute;
+    bottom: 0px;
+    z-index: 1;
+}
+.modal-header{
+background-color:#512DA8;
+color: white;
+
+}
+
+.modal-body{
+    background-color: #9575ce;
+   
+}
